@@ -1,7 +1,9 @@
 # books_recommender_system
-Project discription: part of the AI course project dedicated to build the Recomnmendation System using Collaborative Filtering Model.
+Project discription: part of the AI course project dedicated to build the Recommendation System using Collaborative Filtering Model.
 
 Dataset sourse: https://www.kaggle.com/ruchi798/bookcrossing-dataset
+
+Goal of the research: to biuld effective book recommendation system using users preferences.
 
 Team: Yuliia Nikolaenko, Lara-Anna Wagner, Mihaela Grigore.
 
